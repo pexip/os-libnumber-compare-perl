@@ -1,3 +1,9 @@
+libnumber-compare-perl (0.03-3pexip1) pexip; urgency=medium
+
+  * Prepare Pexip packaging
+
+ -- Mark Hymers <mark.hymers@pexip.com>  Mon, 11 Dec 2023 12:22:59 +0000
+
 libnumber-compare-perl (0.03-3) unstable; urgency=medium
 
   [ Debian Janitor ]

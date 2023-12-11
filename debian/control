@@ -1,6 +1,7 @@
 Source: libnumber-compare-perl
-Maintainer: Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>
-Uploaders: gregor herrmann <gregoa@debian.org>
+Maintainer: Pexip AS <packaging@pexip.com>
+XSBC-Pexip-Original-Maintainer: Debian Perl Group <pkg-perl-maintainers@lists.alioth.debian.org>
+XSBC-Pexip-Original-Uploaders: gregor herrmann <gregoa@debian.org>
 Section: perl
 Testsuite: autopkgtest-pkg-perl
 Priority: optional
@@ -11,6 +12,7 @@ Vcs-Browser: https://salsa.debian.org/perl-team/modules/packages/libnumber-compa
 Vcs-Git: https://salsa.debian.org/perl-team/modules/packages/libnumber-compare-perl.git
 Homepage: https://metacpan.org/release/Number-Compare
 Rules-Requires-Root: no
+XS-Pexip-Upstream: http://deb.debian.org/debian/ bookworm
 
 Package: libnumber-compare-perl
 Architecture: all
