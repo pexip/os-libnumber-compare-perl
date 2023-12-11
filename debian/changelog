@@ -1,4 +1,4 @@
-libnumber-compare-perl (0.03-3pexip1) pexip; urgency=medium
+libnumber-compare-perl (0.03-3pexip1) pexip-bookworm; urgency=medium
 
   * Prepare Pexip packaging
 
