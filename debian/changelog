@@ -1,3 +1,9 @@
+libnumber-compare-perl (0.03-3+pexip24u2) pexip-bookworm; urgency=medium
+
+  * New versioning scheme
+
+ -- Mark Hymers <mark.hymers@pexip.com>  Thu, 01 Feb 2024 16:06:27 +0000
+
 libnumber-compare-perl (0.03-3pexip1) pexip-bookworm; urgency=medium
 
   * Prepare Pexip packaging
