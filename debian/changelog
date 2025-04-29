@@ -1,3 +1,9 @@
+libnumber-compare-perl (0.03-3+pexip25u1) pexip-trixie; urgency=medium
+
+  * Initial trixie build
+
+ -- Mark Hymers <mark.hymers@pexip.com>  Tue, 29 Apr 2025 22:37:00 +0100
+
 libnumber-compare-perl (0.03-3+pexip24u2) pexip-bookworm; urgency=medium
 
   * New versioning scheme
